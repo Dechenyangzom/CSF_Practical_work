@@ -20,3 +20,10 @@ recursion.
   - Find the index of the first Fibonacci number that exceeds a given value.
   - Determine if a given number is a Fibonacci number.
   - Calculate the ratio between consecutive Fibonacci numbers and observe its approach to the golden ratio.
+
+
+- *Question*:
+  - advantages and disadvantages of the recursive approach compared to the iterative approach.
+  - how memoization improve the performance of the recursive function and the drawbacks.
+  - scenarios  to use a generator function over other implementations.
+  - How the space complexity differ between these implementations.

@@ -106,3 +106,4 @@ def total_percent_of_words_longer_than_average(content, word):
     
 total_percentage = total_percent_of_words_longer_than_average(content, word)
 print(f"total percentage of words longer than average word length: {total_percentage}")
+
